@@ -22,7 +22,7 @@ Body:
 
 ```bash
 {
-  "userId": "AO0qBEx9n8F1Aa02o1Gk",
+  "userId": "{user documentId}",
   "displayName": "jiehan updated",
   "age": 25,
   "profession": "designer updated"
