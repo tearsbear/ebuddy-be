@@ -12,7 +12,7 @@ use this bearer token : id2024
 | :-------- | :------- | :------------------------------------------- |
 | `userId`  | `string` | **Required**. user Document ID in collection |
 
-#### Get item
+#### update user data
 
 ```http
   PUT /update-user-data
